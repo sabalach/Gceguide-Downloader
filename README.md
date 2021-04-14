@@ -17,5 +17,13 @@ Worry no more. This node js script automatically downloads all pdfs from papers.
 - Run `node index.js`
 - HOORAY
 
+## Contributors
+[sabalach](https://github.com/sabalach)            |  [Subrat48](https://github.com/Subrat48)
+:-------------------------:|:-------------------------:
+[![](https://github.com/sabalach.png?size=48)](https://github.com/Subrat48)  |  [![](https://pbs.twimg.com/profile_images/1283345791495503872/tHyMfR6r_normal.jpg)](https://github.com/Subrat48)
+
+
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
