@@ -3,9 +3,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-If you're studying A-Levels you know the exact pain of downloading each pdf manually from sites like papers.gceguide.com.
+If you're studying A-Levels, you know the exact pain of downloading each pdf manually from sites like: papers.gceguide.com.
 
-Worry no more. This node js script automatically downloads all pdfs from papers.gceguide.com.
+Worry no more! This node js script automatically downloads all pdfs from papers.gceguide.com.
 
 
 ## How to use
